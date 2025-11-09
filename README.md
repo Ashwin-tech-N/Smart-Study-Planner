@@ -8,8 +8,6 @@ A beautiful, glassmorphic study planner that uses AI to not only generate a sche
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-8C2DFF?style=for-the-badge)
 ---
 
-![IntellectoNova Main UI](https://via.placeholder.com/1200x600.png?text=IntellectoNova+Main+App+Screenshot)
-
 IntellectoNova is a smart study planner with a stunning UI. It's designed to help students organize their subjects and topics, and then leverage AI to create an optimized study plan with actionable recommendations.
 
 ### ✨ Key Features
