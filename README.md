@@ -45,5 +45,5 @@ To run this project locally, follow these simple steps.
 You can either clone this repository or download the three files (`index.html`, `styles.css`, and `script.js`) into a single folder on your computer.
 
 ```bash
-git clone [https://github.com/your-username/intellectonova.git](https://github.com/your-username/intellectonova.git)
-cd intellectonova
+git clone [[https://github.com/your-username/intellectonova.git](https://github.com/your-username/intellectonova.git)
+cd intellectonova](https://github.com/Ashwin-tech-N/Smart-Study-Planner)
